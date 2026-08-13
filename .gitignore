@@ -1,0 +1,14 @@
+# 构建产物
+build/
+
+# 运行输出
+output/
+*.wav
+
+# 大体积运行时资源(模型/词典/第三方二进制, 按 README 自行准备)
+models/
+deps/
+runtime/
+
+# 杂项
+*.log
